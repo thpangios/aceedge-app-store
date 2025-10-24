@@ -591,7 +591,8 @@ body {
   backdrop-filter: blur(10px);
   border: 1px solid rgba(245, 158, 11, 0.3);
   border-left: 4px solid #f59e0b;
-  animation: fadeInUp 0.4s ease-
+  animation: fadeInUp 0.4s ease-out;
+}
 /* ============================================
    LABELS & TYPOGRAPHY
    ============================================ */
